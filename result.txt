@@ -1,0 +1,9 @@
+-- Word Count --
+	IF.txt: 287
+	AlwaysRememberUsThisWay.txt: 223
+-- Most Common Words --
+	IF.txt: [('and', 19), ('you', 18), ('if', 14)]
+	AlwaysRememberUsThisWay.txt (Contractions not Handled): [('i', 15), ('the', 13), ('t', 9)]
+	AlwaysRememberUsThisWay.txt (Contractions Handled): [('i', 15), ('the', 13), ('and', 8)]
+-- IP Address --
+	192.168.1.88
